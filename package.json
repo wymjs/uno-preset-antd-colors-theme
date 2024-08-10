@@ -1,6 +1,6 @@
 {
 	"name": "@wymjs/uno-preset-antd-colors-theme",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"type": "module",
 	"description": "將 @ant-design/colors 轉換成 unocss theme.colors",
 	"main": "dist/index.js",
